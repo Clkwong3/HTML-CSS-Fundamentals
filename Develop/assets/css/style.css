@@ -24,6 +24,8 @@ body {
     color: #d9dcd6;
 }
 
+/* Replace the <div> element with <nav> element because to match the changes made in HTML */
+
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -75,6 +77,12 @@ p {
     margin-left: 20px;
 }
 
+/*  Group 'content' selectors: search-engine-optimization, online-reputation-management, social-media-marketing
+    Group 'content' selectors: h2
+    Group 'content' selectors: img    
+    Move the 'content' selectors above 'benefits' selector to match the layout in HTML
+*/
+
 .search-engine-optimization,
 .online-reputation-management,
 .social-media-marketing {
@@ -98,6 +106,11 @@ p {
 .social-media-marketing img {
     max-height: 200px;
 }
+
+/*  Group 'benefit' selectors: benefit-lead, benefit-brand, benefit-cost
+	Group 'benefit' selectors: h3
+	Group 'benefit' selectors: img
+*/
 
 .benefits {
     margin-right: 20px;
