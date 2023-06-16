@@ -18,7 +18,7 @@ In Git,
 - Upload all changes to the repository using the CLI.
 - Launch the web application with the GitHub Environment. 
 
-Any changes made to the starter code is to be recorded in VS Code.
+Any changes made to the starter code is to be noted in VS Code.
 
 ## What should it look like?
 
