@@ -21,7 +21,7 @@ In Git,
 Any changes made to the starter code is to be noted in VS Code.
 
 ## The correct design
-
+![Full Page Image](_Users_ECY_bootcamp_UCB-VIRT-FSF-PT-06-2023-U-LOLC_Week-1-HTML-Git-CSS_02-Challenge_coderefactor-HTML-CSS-GIT_Develop_index)
 
 ## Web Application
 Link to [Horiseon](https://clkwong3.github.io/coderefactor-HTML-CSS-GIT/)
