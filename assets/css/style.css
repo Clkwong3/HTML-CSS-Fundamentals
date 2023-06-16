@@ -24,7 +24,7 @@ body {
     color: #d9dcd6;
 }
 
-/* Replace the <div> element with <nav> element because to match the changes made in HTML */
+/* Replace the <div> tag with <nav> tag to match the changes made in HTML */
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -33,13 +33,14 @@ body {
     font-size: 20px;
 }
 
-.header nav ul {
+/* Replace the <nav> tag with <section> tag to match the changes made in HTML */
+.header section ul {
     list-style-type: none;
 }
 
-.header nav ul li {
+.header section ul li {
     display: inline-block;
-    margin-left: 25px;
+    margin-right: 25px;
 }
 
 a {
