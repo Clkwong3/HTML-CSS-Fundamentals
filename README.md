@@ -1,14 +1,37 @@
-# HTML CSS GIT Challenge 1: Code Refactor
+# Foobar
 
-Refactoring existing code to keep up with the growing demands of web accessibility is something as a developer, you will be task to do often. To prepare for this, you will work on challenge 1 using HTML, CSS, and Git. 
+Foobar is a Python library for dealing with word pluralization.
 
+## Installation
 
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
 
-## What should it look like?
+```bash
+pip install foobar
+```
 
+## Usage
 
+```python
+import foobar
 
+# returns 'words'
+foobar.pluralize('word')
 
-### Application Link
+# returns 'geese'
+foobar.pluralize('goose')
 
-[Horiseon] (https://clkwong3.github.io/coderefactor-HTML-CSS-GIT/)
+# returns 'phenomenon'
+foobar.singularize('phenomena')
+```
+
+## Contributing
+
+Pull requests are welcome. For major changes, please open an issue first
+to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
