@@ -20,9 +20,8 @@ In Git,
 
 Any changes made to the starter code is to be noted in VS Code.
 
-## What should it look like?
+## The correct design
 
 
-## Web Application Link
-
-[Horiseon](https://clkwong3.github.io/coderefactor-HTML-CSS-GIT/)
+## Web Application
+Link to [Horiseon](https://clkwong3.github.io/coderefactor-HTML-CSS-GIT/)
