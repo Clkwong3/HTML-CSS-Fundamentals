@@ -24,7 +24,9 @@ body {
     color: #d9dcd6;
 }
 
-/* Replace the <div> tag with <nav> tag to match the changes made in HTML */
+/* 
+    Replace the <div> tag with <nav> tag to match the changes made in HTML.
+*/
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -33,7 +35,10 @@ body {
     font-size: 20px;
 }
 
-/* Replace the <nav> tag with <section> tag to match the changes made in HTML */
+/* 
+    Replace the <nav> tag with <section> tag to match the changes made in HTML.
+    Since I replace the tags, the inline on top of the screen moved from the top left to below Horiseon.
+*/
 .header section ul {
     list-style-type: none;
 }
@@ -77,7 +82,8 @@ p {
     margin-left: 20px;
 }
 
-/*  Group 'content' selectors: search-engine-optimization, online-reputation-management, social-media-marketing
+/*  
+    Group 'content' selectors: search-engine-optimization, online-reputation-management, social-media-marketing
     Group 'content' selectors: h2
     Group 'content' selectors: img    
     Move the 'content' selectors above 'benefits' selector to match the layout in HTML
@@ -106,7 +112,8 @@ p {
     max-height: 200px;
 }
 
-/*  Group 'benefit' selectors: benefit-lead, benefit-brand, benefit-cost
+/*  
+    Group 'benefit' selectors: benefit-lead, benefit-brand, benefit-cost
 	Group 'benefit' selectors: h3
 	Group 'benefit' selectors: img
 */
