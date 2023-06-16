@@ -25,7 +25,6 @@ body {
 }
 
 /* Replace the <div> element with <nav> element because to match the changes made in HTML */
-
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -82,7 +81,6 @@ p {
     Group 'content' selectors: img    
     Move the 'content' selectors above 'benefits' selector to match the layout in HTML
 */
-
 .search-engine-optimization,
 .online-reputation-management,
 .social-media-marketing {
@@ -111,7 +109,6 @@ p {
 	Group 'benefit' selectors: h3
 	Group 'benefit' selectors: img
 */
-
 .benefits {
     margin-right: 20px;
     padding: 20px;
