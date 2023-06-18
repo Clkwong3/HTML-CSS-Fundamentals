@@ -36,14 +36,15 @@ body {
 }
 
 /* 
-    Replace the <nav> tag with <section> tag to match the changes made in HTML.
+    Replace the <div> tag with <nav> tag to match the changes made in HTML.
     Since I replace the tags, the inline on top of the screen moved from the top left to below Horiseon.
+    Remove <.header> from <ul> and <ul li>.
 */
-.header section ul {
+nav ul {
     list-style-type: none;
 }
 
-.header section ul li {
+nav ul li {
     display: inline-block;
     margin-right: 25px;
 }
