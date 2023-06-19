@@ -25,4 +25,4 @@ In Git,
 ![Full Page Image](Images/_Users_ECY_bootcamp_UCB-VIRT-FSF-PT-06-2023-U-LOLC_Week-1-HTML-Git-CSS_02-Challenge_coderefactor-HTML-CSS-GIT_Develop_index.html.png)
 
 ## Made by me
-Link to [Horiseon](https://clkwong3.github.io/coderefactor-HTML-CSS-GIT/)
+Link to [Horiseon](https://clkwong3.github.io/HTML-CSS-Fundamentals/)
