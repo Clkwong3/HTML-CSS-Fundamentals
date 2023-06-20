@@ -20,6 +20,7 @@ In CSS,
 - Arrange the code to follow the semantic structure.
 
 In Git,
+
 - Set up a repository to clone the starter code into.
 - Write a README file.
 - Launch the web application with the GitHub Environment.

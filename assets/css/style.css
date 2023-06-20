@@ -1,13 +1,16 @@
+/* Adjust box-sizing, padding, and margin */
 * {
   box-sizing: border-box;
   padding: 0;
   margin: 0;
 }
 
+/* Set the overall background color for the website */
 body {
   background-color: #d9dcd6;
 }
 
+/* Set the padding, type of font, color of banner, and color of text of .header */
 .header {
   padding: 20px;
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
@@ -16,18 +19,18 @@ body {
   color: #ffffff;
 }
 
+/* Set the display and choose the font size for .header h1  */
 .header h1 {
   display: inline-block;
   font-size: 48px;
 }
 
+/* Choose the color of text for .header h1 .seo */
 .header h1 .seo {
   color: #d9dcd6;
 }
 
-/* 
-    Replace the <div> tag with <nav> tag to match the changes made in HTML.
-*/
+/* Set the padding, margin, and float as well as the font type and size for .header */
 .header section {
   padding-top: 15px;
   margin-right: 20px;
@@ -36,28 +39,29 @@ body {
   font-size: 20px;
 }
 
-/* 
-    Replace the <div> tag with <nav> tag to match the changes made in HTML.
-    Remove <.header> from <ul> and <ul li>.
-*/
+/* Remove list style from ul */
 section ul {
   list-style-type: none;
 }
 
+/* Set the display and margin for ul li */
 section ul li {
   display: inline-block;
   margin-right: 25px;
 }
 
+/* Set the text color and remove text decoration from a */
 a {
   color: #ffffff;
   text-decoration: none;
 }
 
+/* Set the font size for p */
 p {
   font-size: 16px;
 }
 
+/* Set the .hero's height, width, and margin then add the background image, background size, and background position. */
 .hero {
   height: 800px;
   width: 100%;
@@ -67,28 +71,26 @@ p {
   background-position: center;
 }
 
+/* Set the float and margin of the images in the articles */
 .float-left {
   float: left;
   margin-right: 25px;
 }
 
+/* Set the float and margin of the image in the article */
 .float-right {
   float: right;
   margin-left: 25px;
 }
 
+/* Adjust the width, display and margin of .content */
 .content {
   width: 75%;
   display: inline-block;
   margin-left: 20px;
 }
 
-/*  
-    Group 'content' selectors: search-engine-optimization, online-reputation-management, social-media-marketing
-    Group 'content' selectors: h2
-    Group 'content' selectors: img    
-    Move the 'content' selectors above 'benefits' selector to match the layout in HTML
-*/
+/* Set the margin, padding, and height of .search-engine-optimization, .online-reputation-management, .social-media-marketing and choose type of font, background color, and the color of text */
 .search-engine-optimization,
 .online-reputation-management,
 .social-media-marketing {
@@ -100,6 +102,7 @@ p {
   color: #ffffff;
 }
 
+/* Set the margin of .search-engine-optimization h2, .online-reputation-management h2, .social-media-marketing h2 and choose the font size */
 .search-engine-optimization h2,
 .online-reputation-management h2,
 .social-media-marketing h2 {
@@ -107,17 +110,14 @@ p {
   font-size: 36px;
 }
 
+/* Set the height for .search-engine-optimization img, .online-reputation-management img, .social-media-marketing img */
 .search-engine-optimization img,
 .online-reputation-management img,
 .social-media-marketing img {
   max-height: 200px;
 }
 
-/*  
-    Group 'benefit' selectors: benefit-lead, benefit-brand, benefit-cost
-	Group 'benefit' selectors: h3
-	Group 'benefit' selectors: img
-*/
+/* Set the margin, padding, clear, float, width, height, font type, background color, of .benefits */
 .benefits {
   margin-right: 20px;
   padding: 20px;
@@ -129,6 +129,7 @@ p {
   background-color: #2589bd;
 }
 
+/* Set the margins and the text's color for the.benefit-lead,.benefit-brand, and .benefit-brand elements. */
 .benefit-lead,
 .benefit-brand,
 .benefit-brand {
@@ -136,6 +137,7 @@ p {
   color: #ffffff;
 }
 
+/* Set the margins and text's position for the benefit-lead, benefit-brand, and benefit-cost h3 tags. */
 .benefit-lead h3,
 .benefit-brand h3,
 .benefit-cost h3 {
@@ -143,6 +145,7 @@ p {
   text-align: center;
 }
 
+/* Set the display, margin, and width for .benefit-lead img, .benefit-brand img, .benefit-cost img */
 .benefit-lead img,
 .benefit-brand img,
 .benefit-cost img {
@@ -151,6 +154,7 @@ p {
   max-width: 150px;
 }
 
+/* Set the padding, clear, font type, and text's position of .footer */
 .footer {
   padding: 30px;
   clear: both;
@@ -159,6 +163,7 @@ p {
   text-align: center;
 }
 
+/* Choose the font size of .footer h2 */
 .footer h2 {
   font-size: 20px;
 }
