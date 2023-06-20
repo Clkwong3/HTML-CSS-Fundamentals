@@ -40,11 +40,11 @@ body {
     Replace the <div> tag with <nav> tag to match the changes made in HTML.
     Remove <.header> from <ul> and <ul li>.
 */
-nav ul {
+section ul {
   list-style-type: none;
 }
 
-nav ul li {
+section ul li {
   display: inline-block;
   margin-right: 25px;
 }
