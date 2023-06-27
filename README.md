@@ -32,4 +32,5 @@ In Git,
 ## Made by me
 
 Link to [Horiseon](https://clkwong3.github.io/HTML-CSS-Fundamentals/)
+
 Deployment link: https://clkwong3.github.io/HTML-CSS-Fundamentals/
